@@ -346,7 +346,7 @@ ghost_interaction = false
 # Enable/disable starlight to make space without areas be lit up
 starlight = true
 # Disable lobby music on the server
-disable_lobby_music = false
+disable_lobby_music = true
 # Disable ambient noise and white noise
 disable_ambient_noise = false
 # Enable this if you want to disable the popup alert for people on the same CID
